@@ -1,5 +1,5 @@
 ## These two function takes a matrix x, compute its inversion
-## with cache method.
+## with the cache method.
 
 ## This function create a list contained 4 function:
 ## set the matrix
